@@ -12,7 +12,7 @@ Let V=2.18 × 10<sup>6</sup> ,<br>
 Let R=5.29177 × 10<sup>-11</sup> <br>
 
 2.Next, I calculated a circumfrence-like value (C):<br>
-Define C=2 × Pi × R<br>
+Define C=2&#960;R<br>
 C=2 × 3.14 × 5.29177 × 10<sup>-11</sup> <br>
 Calculating this gives:<br>
 C=3.3249 × 10<sup>-10</sup> <br>
