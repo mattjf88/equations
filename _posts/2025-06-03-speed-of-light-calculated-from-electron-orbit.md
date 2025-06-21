@@ -2,7 +2,7 @@
 title: "speed-of-light-calculated-from-electron-orbit"
 date: 2025-06-03
 ---
-I’m looking at some numerical relationships and would appreciate you sights into any underlying mathematical properties or patterns that might explain the operations formulated to near a known constant the speed of light from an electron.
+I looked at numerical symbols and found I could calculate a constant the speed of light from other constatns an electrons orbit.
 
 Here's the path i followed:
 
@@ -47,13 +47,14 @@ The model to equation, a one dimensional oscillation can start from the center f
 
 
 <div>
+ <br><br>
 from "The large scale structure of space time"
 
-<br><br>
+<br>
 
 Section 3.4 The field equations
 
-<br><br>
+<br>
 
 f<sup>-1</sup>K move f a divergence - 1, divergence with the -1 to somewhere or a movement to a K
 with some sort of script from somewhere, just think its f<sup>-1</sup>K<sub>a</sub> which would be a movement
