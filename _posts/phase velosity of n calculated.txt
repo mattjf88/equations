@@ -1,0 +1,150 @@
+Equation date March 2020
+ The phase velocity of the electron’s de Broglie wave calculated.
+n=1=300,964,279,n=2=88,365,373,n=3=43,353,391,n=4=26,055,691,n=5=17,804,932.
+use two known constants an electrons radius and velocity of electron
+
+//……….n=1……….//
+Let Velocity=2188266 meters/second
+Let Radius=.0000000000529177 meters
+
+Step1, Radius×2π÷velocity÷4=time of circular orbit
+ 
+Step 1, (2 × 3.14 × .0000000000529177÷2188266÷4)=.0000000000000000379664944755 seconds
+
+Step 2, use the value as time in this equation and use the bohr radius as height for number1. ((2×time)^2×(time)^.25)÷((height+(height÷15))×time)=Number1
+
+Step 2, ((2×.0000000000000000379664944755)^2×(.0000000000000000379664944755)^.25)÷((.0000000000529177+(.0000000000529177÷15))×.0000000000000000379664944755)=.00000000021119368716 Number1
+
+Step 3, use the number learned in step 2 in this equation with time being one second and use the bohr radius as height. ((2×time)^2×(time)^.25)÷((Number1-(meters÷15))×time×(4^3)=number2
+
+Step 3.  
+((2×1)^2×(1)^.25)÷((.00000000021119368716-(.0000000000529177÷15))×1×(4^3)=300964279
+//……….n=1……….//
+
+
+//……….n=2……….//
+Radius = n=2 = .0000000002116708 meters
+Velocity of electron=1094133 meters/second 
+
+Step 1
+Radius×2π÷velocity÷4=time of circular orbit
+
+Step1 .0000000002116708×2×π÷1094133÷4=.000000000000000303886013 seconds
+
+Step 2,use step 1’s answer for time and radius as height,
+((2×time)^2×(time)^.25)÷((height+(height÷15))×time)=Number
+
+Step2, ((2×.000000000000000303886013)^2×(.000000000000000303886013)^.25)÷((.0000000002116708+(.0000000002116708÷15))×.000000000000000303886013)=.000000000710818472 Number
+
+Step 3, use step 2 answer for Number, with bohr radius as height
+((2×time)^2×(time)^.25)÷((Number-(height÷15))×time×4^3)=New Number
+
+
+Step 3, ((2×1)^2×(1)^.25)÷((.000000000710818472−(.0000000000529177÷15))×64×1)= 88365373
+//……….n=2……….//
+
+//……….n=3……….//
+Radius = n=3 = .0000000004762593 meters
+Velocity of electron=729422 meters/second 
+
+Step 1
+Radius×2π÷velocity÷4=time of circular orbit
+
+Step 1, .0000000004762593×2×π÷729422÷4=.00000000000000102561529 seconds
+
+Step 2,use step 1’s answer for time and a protons radius as height,
+((2×time)^2×(time)^.25)÷((height+(height÷15))×time)=Number
+
+Step 2, ((2×.00000000000000102561529)^2×(.00000000000000102561529)^.25)÷((.0000000004762593+(.0000000004762593÷15))×.00000000000000102561529)=.00000000144516823 Number
+
+Step 3, use the step 2’s answer for Number, height as bohr radius
+((2×time)^2×(time)^.25)÷((Number-(height÷15))×time×4^3)=New Number
+
+Step 3, ((2×1)^2×(1)^.25)÷((.00000000144516823−(.0000000000529177÷15))×1×64)=43353391
+//……….n=3……….//
+
+//……….n=4……….//
+Radius = n=4 = .0000000008466832 meters
+Velocity of electron=545000 meters/second 
+
+Step 1
+Radius×2π÷velocity÷4=time of circular orbit
+
+Step1, .0000000008466832×2×π÷545000÷4=.000000000000002440306 seconds
+
+Step 2,use step 1’s answer for time and radius n=4 as height,
+((2×time)^2×(time)^.25)÷((height+(height÷15))×time)=Number
+
+Step 2, ((2×.000000000000002440306)^2×(.000000000000002440306)^.25)÷((.0000000008466832+(.0000000008466832÷15))×.000000000000002440306)=.000000002402236 Number
+
+Step 3, use the step 2’s answer for Number, height as bohr radius
+((2×time)^2×(time)^.25)÷((Number-(height÷15))×time×4^3)=New Number
+
+
+Step 3 , ((2×1)^2×(1)^.25)÷((.000000002402236−(.0000000000529177÷15))×1×64)=26055691
+//……….n=4……….//
+
+//……….n=5……….//
+Radius = n=5 = .0000000012700248 meters
+Velocity of electron=436000 meters/second 
+
+Step 1
+Radius×2π÷velocity÷4=time of circular orbit
+
+Step 1, .0000000012700248×2×π÷436000÷4=.000000000000004575574 seconds
+
+Step 2,use step 1’s answer for time and radius n=5 as height,
+((2×time)^2×(time)^.25)÷((height+(height÷15))×time)=Number
+
+Step 2, ((2×.000000000000004575574)^2×(.000000000000004575574)^.25)÷(( .0000000012700248+(.0000000012700248÷15))×.000000000000004575574)=.000000003513791Number
+
+Step 3, use the step 2’s answer for Number, height as bohr radius  
+((2×time)^2×(time)^.25)÷((Number-(height÷15))×time×4^3)=New Number
+
+
+Step 3, ((2×1)^2×(1)^.25)÷((.000000003513791−(.0000000000529177÷15))×1×64)=17804932
+//……….n=5……….//
+Beginning of march 2020
+
+Here it is in exponential 
+
+Circumference of electron of bohr radius divided by velocity of electron in first bohr orbit = seconds
+
+3.324917151210-102.18106=1.525191353710-16 seconds
+
+seconds divided by 4 quadrants = time of one fall
+
+1.525191353710-164=3.812978384410-17 seconds
+
+Through this with bohr radius as height
+
+(2time)2(time)14(height+(height15))time=
+
+(23.812978384410-17)2(3.812978384410-17)14(5.2917710-11+(5.2917710-1115))3.812978384410-17=2.123296955110-10
+
+Then through this with time being one second and height the bohr radius
+
+(2time)2(time)14(-(height15))time43=height
+
+(21)2(1)14(2.123296955110-10-(5.2917710-1115))143=299326851.49207
+
+It is equal to almost the speed of light
+
+(4)((2.123296955110-10-(5.2917710-1115))64)=299326851.49207
+
+From beginning for calculator is 
+
+(4)÷(((((2×((.00000000033249÷2180000)÷4))^2×(((.00000000033249÷2180000)÷4))^.25)÷((.0000000000529177+(.0000000000529177÷15))×((.00000000033249÷2180000)÷4)))-(.0000000000529177÷15))×64)=299328814
+
+Or simplified for calculator is 
+
+(4)÷((((((2×.000000000000000038129)^2)×((.000000000000000038129)^.25))÷((.0000000000529177+(.0000000000529177÷15))×.000000000000000038129))-(.0000000000529177÷15))×64)=299334673
+
+V(r)=√((ke^2)÷(mr),
+√((8987551792×.0000000000000000001602176634^2)÷(.00000000000000000000000000000091093837015×.0000000000000084))
+
+Time=a_0^3/3A. A=ke^4÷3π£_0m^2c^3
+((.0000000000529177210903)^3)÷(3×((8988000000×.0000000000000000001602176634^4)÷(3×π×.0000000000088541878128×.00000000000000000000000000000091093837015^2×299792458^3)))
+
+(4)÷((.000000000212005406−(.0000000000529177÷15))×64)=299792458.23800719
+
